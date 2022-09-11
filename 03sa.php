@@ -21,5 +21,6 @@ foreach ($def as $Highdef){
 }
 echo " Pokemon with defense greater than 60!";
 echo '<br>';
+echo '<br>';
 pokemon_defense($defense,60);
 ?>
